@@ -5,7 +5,7 @@
 ###
 
 <p align="left">
-  💻 <b>Frontend Developer | React | Angular</b> from Egypt
+  💻 <b>Frontend Developer</b> from Egypt
   🚀 Specialized in <b>Angular</b> & <b>React</b> <br>
   🏗️ Currently focusing on <b>Advanced JavaScript</b> & Clean UI/UX Implementation <br>
   🎯 Working on my Graduation Project & preparing for the professional market <br>
