@@ -1,15 +1,15 @@
-# Mohamed Ibrahim 🚀
+# Mohamed Ibrahim
 
-<h1 align="left">Hey 👋, I'm Mohamed Ibrahim</h1>
+<h1 align="left">Hey , I'm Mohamed Ibrahim</h1>
 
 ###
 
 <p align="left">
-  💻 <b>Frontend Developer</b> from Egypt
-  🚀 Specialized in <b>Angular</b> & <b>React</b> <br>
-  🏗️ Currently focusing on <b>Advanced JavaScript</b> & Clean UI/UX Implementation <br>
-  🎯 Working on my Graduation Project & preparing for the professional market <br>
-  💪 Fun fact: I spend almost as much time at the gym as I do coding 😅
+   <b>Frontend Developer</b> from Egypt
+   Specialized in <b>Angular</b> & <b>React</b> <br>
+   Currently focusing on <b>Advanced JavaScript</b> & Clean UI/UX Implementation <br>
+   Working on my Graduation Project & preparing for the professional market <br>
+   Fun fact: I spend almost as much time at the gym as I do coding 
 </p>
 
 ###
@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="left">🌐 Connect with me</h2>
+<h2 align="left"> Connect with me</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-ibrahim-733952214" target="_blank">
