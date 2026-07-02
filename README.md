@@ -6,7 +6,6 @@
 Frontend Developer from Egypt, focused on building modern, responsive, and scalable web applications.<br>
 Specialized in <strong>Angular</strong> and <strong>React</strong>, with experience in <strong>Next.js</strong> and modern frontend architecture.<br>
 Passionate about writing clean, maintainable code and creating intuitive user experiences.<br>
-Currently preparing to start my professional career as a Frontend Engineer.
 </p>
 
 ---
