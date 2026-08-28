@@ -1,76 +1,84 @@
-# Mohamed Ibrahim
+# Mohamed Ibrahim Kamel
 
-<h1 align="left">Hi, I'm Mohamed Ibrahim</h1>
+### Full-Stack Developer | React, Next.js & Node.js
 
-<p align="left">
-Frontend Developer from Egypt, focused on building modern, responsive, and scalable web applications.<br>
-Specialized in <strong>Angular</strong> and <strong>React</strong>, with experience in <strong>Next.js</strong> and modern frontend architecture.<br>
-Passionate about writing clean, maintainable code and creating intuitive user experiences.<br>
-</p>
+I'm a Full-Stack Developer focused on building modern, scalable web applications.
+
+I started my journey in frontend development, working mainly with React, Next.js, and TypeScript. I have since expanded into backend development with Node.js, Express, MongoDB, and RESTful APIs, allowing me to build and understand applications across the full stack.
+
+I enjoy turning ideas into real applications, solving technical problems, and continuously improving my understanding of how web applications work under the hood.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-
-</div>
-
-### Libraries & Tools
-
+### Frontend
+- React
 - Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
 - Zustand
-- shadcn/ui
+- Context API
+- HTML5
+- CSS3
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
 - REST APIs
-- Responsive Design
 - JWT Authentication
-- Axios
+
+### Tools & Technologies
+- Git
+- GitHub
+- Postman
+- Vercel
+- Figma
+- WebSockets
+- Paymob
 
 ---
 
-## Connect with Me
+## 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-ibrahim-733952214">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+### ToroStack
+AI-powered competitive programming platform built as my graduation project.
 
-  <a href="mailto:ibarahim24876@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+- Real-time 1v1 competitive coding rooms
+- WebSocket-based communication
+- JWT authentication
+- AI-powered learning roadmaps and feedback
+- Responsive React frontend
+- 53K+ requests and 1.5K+ unique visitors
+
+**Tech:** React, TypeScript, Tailwind CSS, WebSockets, REST APIs
+
+[Live Demo](https://torostack.me/)
+
+---
+
+### SH Supplements
+Full-stack e-commerce application for fitness supplements.
+
+- Next.js frontend
+- Node.js & Express backend
+- MongoDB database
+- JWT authentication
+- Product filtering and cart management
+- Paymob payment integration
+- RESTful API architecture
+
+**Tech:** Next.js, TypeScript, Node.js, Express, MongoDB, Mongoose, Zustand, Tailwind CSS, Paymob
+
+[Live Demo](https://sh-supplements.vercel.app/)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [Mohamed Ibrahim Kamel](https://www.linkedin.com/in/mohamed-ibrahim-kamel)
+- Portfolio: [My Portfolio](https://portfolio-next-green-phi.vercel.app/)
+- Email: ibarahim24876@gmail.com
