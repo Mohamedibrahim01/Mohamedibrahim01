@@ -6,16 +6,16 @@
 
 **React · Node.js · Express · MongoDB**
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Junior+Full-Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+modern+web+applications;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Junior+Full-Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+modern+full-stack+applications;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/Mohamedibrahim01">
-  <img src="https://img.shields.io/badge/GitHub-Mohamedibrahim01-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Mohamedibrahim01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://portfolio-next-green-phi.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
@@ -24,14 +24,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Junior Full-Stack Developer** passionate about building modern and responsive web applications.
+I'm a **Junior Full-Stack Developer** focused on building modern web applications using **React and Node.js**.
 
-* ⚛️ Building frontend applications with **React**
-* 🟢 Developing backend APIs with **Node.js & Express**
+* ⚛️ Building interactive and responsive interfaces with **React**
+* 🟢 Building RESTful APIs with **Node.js & Express**
 * 🗄️ Working with **MongoDB**
-* 🚀 Building full-stack applications and real-world projects
-* 📚 Currently improving my backend and software engineering fundamentals
-* 🎯 Looking for opportunities to grow as a **Full-Stack Developer**
+* 🚀 Building full-stack applications with the **MERN stack**
+* 📚 Continuously improving my backend and software engineering fundamentals
+* 🎯 Open to opportunities as a **Junior Full-Stack Developer**
 
 ---
 
@@ -40,19 +40,19 @@ I'm a **Junior Full-Stack Developer** passionate about building modern and respo
 ### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind&perline=8" alt="Frontend Technologies" />
 </p>
 
 ### Backend & Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=8" alt="Backend Technologies" />
 </p>
 
 ### Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&perline=8" alt="Development Tools" />
 </p>
 
 ---
@@ -63,13 +63,18 @@ I'm a **Junior Full-Stack Developer** passionate about building modern and respo
 
 **Full-Stack E-Commerce Application**
 
-A complete full-stack e-commerce application built with a modern frontend and backend architecture.
+A complete full-stack e-commerce application built from the ground up, covering both frontend and backend development.
+
+**My Contribution**
+
+I built the application **end-to-end**, working across the frontend, backend, API integration, database, and overall application functionality.
 
 **Tech Stack**
 
 `React` · `Node.js` · `Express` · `MongoDB`
 
-🔗 **[View Repository](https://github.com/Mohamedibrahim01)**
+🔗 **[View Repository](https://github.com/Mohamedibrahim01/ecommerce-backend)**
+🔗 **[View Repository](https://github.com/Mohamedibrahim01/ecommerce-frontend)**
 
 ---
 
@@ -77,17 +82,17 @@ A complete full-stack e-commerce application built with a modern frontend and ba
 
 **Competitive Programming Platform**
 
-A collaborative graduation project inspired by competitive programming platforms, with an interactive React frontend and real-time features.
+A collaborative graduation project inspired by competitive programming platforms, featuring an interactive web interface and real-time functionality.
 
 **My Contribution**
 
-I worked on the **React frontend**, building the user interface and frontend functionality.
+I worked on the **React frontend**, developing the user interface and frontend functionality as part of the graduation project team.
 
 **Tech Stack**
 
 `React` · `JavaScript` · `CSS` · `SignalR`
 
-🔗 **[View Repository](https://github.com/Mohamedibrahim01)**
+🔗 **[View Repository](https://github.com/Ma7EG/Torostack-Intelligent-System-for-Managing-Competitive-Programming-)**
 
 ---
 
@@ -95,9 +100,9 @@ I worked on the **React frontend**, building the user interface and frontend fun
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohamedibrahim01&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohamedibrahim01&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedibrahim01&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedibrahim01&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -107,7 +112,7 @@ I worked on the **React frontend**, building the user interface and frontend fun
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mohamedibrahim01&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=Mohamedibrahim01&theme=transparent&hide_border=true" width="60%" alt="GitHub Streak" />
 
 </div>
 
@@ -117,7 +122,7 @@ I worked on the **React frontend**, building the user interface and frontend fun
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedibrahim01&custom_title=Mohamed%27s%20GitHub%20Activity&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedibrahim01&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -127,11 +132,40 @@ I worked on the **React frontend**, building the user interface and frontend fun
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mohamedibrahim01/Mohamedibrahim01/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Mohamedibrahim01/Mohamedibrahim01/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Mohamedibrahim01/Mohamedibrahim01/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Mohamedibrahim01/Mohamedibrahim01/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
 ---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Mohamedibrahim01">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://portfolio-next-green-phi.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
+
+<br/>
 
 <div align="center">
 
