@@ -1,15 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohamed%20Ibrahim%20Kamel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Junior%20Full-Stack%20Developer%20%7C%20React%20%26%20Node.js&descAlignY=58" width="100%"/>
+# 👋 Hi, I'm Mohamed Ibrahim Kamel
 
-<br/>
+### Junior Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Mohamed+Ibrahim+Kamel+%F0%9F%91%8B;Junior+Full-Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+modern+web+applications+%F0%9F%9A%80" alt="Typing SVG"/>
+**React · Node.js · Express · MongoDB**
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Junior+Full-Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+modern+web+applications;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/Mohamedibrahim01">
-<img src="https://komarev.com/ghpvc/?username=Mohamedibrahim01&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/GitHub-Mohamedibrahim01-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://portfolio-next-green-phi.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </div>
@@ -18,14 +24,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Junior Full-Stack Developer** focused on building modern web applications with **React and Node.js**.
+I'm a **Junior Full-Stack Developer** passionate about building modern and responsive web applications.
 
-* 🚀 Building real-world projects with the **MERN stack**
-* ⚛️ Strong focus on **React** and modern frontend development
+* ⚛️ Building frontend applications with **React**
 * 🟢 Developing backend APIs with **Node.js & Express**
 * 🗄️ Working with **MongoDB**
-* 📚 Continuously improving my backend and software engineering fundamentals
-* 🎯 Currently looking for opportunities to grow as a **Full-Stack Developer**
+* 🚀 Building full-stack applications and real-world projects
+* 📚 Currently improving my backend and software engineering fundamentals
+* 🎯 Looking for opportunities to grow as a **Full-Stack Developer**
 
 ---
 
@@ -53,29 +59,35 @@ I'm a **Junior Full-Stack Developer** focused on building modern web application
 
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce Platform
+### 🛒 Peak Supps
 
-**React • Node.js • Express • MongoDB**
+**Full-Stack E-Commerce Application**
 
-A full-stack e-commerce application focused on building a complete shopping experience with a modern React frontend and a Node.js backend.
+A complete full-stack e-commerce application built with a modern frontend and backend architecture.
 
-🔗 **[Frontend Repository](https://github.com/Mohamedibrahim01/ecommerce-frontend)**
+**Tech Stack**
 
----
+`React` · `Node.js` · `Express` · `MongoDB`
 
-### 🎬 Movies Application
-
-A modern movie application built with React, focused on API integration, reusable components, state management, and responsive UI.
-
-🔗 **[View Projects](https://github.com/Mohamedibrahim01)**
+🔗 **[View Repository](https://github.com/Mohamedibrahim01)**
 
 ---
 
-### 💪 Fitness Application
+### 🧠 Touro — Graduation Project
 
-A fitness-focused web application featuring tools such as BMI, BMR and TDEE calculations, designed with a modern and responsive interface.
+**Competitive Programming Platform**
 
-🔗 **[View Projects](https://github.com/Mohamedibrahim01)**
+A collaborative graduation project inspired by competitive programming platforms, with an interactive React frontend and real-time features.
+
+**My Contribution**
+
+I worked on the **React frontend**, building the user interface and frontend functionality.
+
+**Tech Stack**
+
+`React` · `JavaScript` · `CSS` · `SignalR`
+
+🔗 **[View Repository](https://github.com/Mohamedibrahim01)**
 
 ---
 
@@ -105,7 +117,7 @@ A fitness-focused web application featuring tools such as BMI, BMR and TDEE calc
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedibrahim01&custom_title=Mohamed's%20GitHub%20Activity&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedibrahim01&custom_title=Mohamed%27s%20GitHub%20Activity&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -115,36 +127,14 @@ A fitness-focused web application featuring tools such as BMI, BMR and TDEE calc
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mohamedibrahim01/Mohamedibrahim01/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Mohamedibrahim01/Mohamedibrahim01/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Mohamedibrahim01">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://portfolio-next-green-phi.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
 <div align="center">
 
 ### 💻 Building. Learning. Improving.
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
