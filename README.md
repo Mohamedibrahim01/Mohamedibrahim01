@@ -94,17 +94,6 @@ I worked on the **React frontend**, developing the user interface and frontend f
 
 🔗 **[View Repository](https://github.com/Ma7EG/Torostack-Intelligent-System-for-Managing-Competitive-Programming-)**
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohamedibrahim01&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedibrahim01&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-
-</div>
 
 ---
 
@@ -118,38 +107,6 @@ I worked on the **React frontend**, developing the user interface and frontend f
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedibrahim01&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Mohamedibrahim01/Mohamedibrahim01/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Mohamedibrahim01/Mohamedibrahim01/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Mohamedibrahim01/Mohamedibrahim01/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
