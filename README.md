@@ -76,6 +76,8 @@ I built the application **end-to-end**, working across the frontend, backend, AP
 🔗 **[View Repository](https://github.com/Mohamedibrahim01/ecommerce-backend)**
 🔗 **[View Repository](https://github.com/Mohamedibrahim01/ecommerce-frontend)**
 
+🔗 **[Live Demo](https://ecommerce-peak-supps.vercel.app/)**
+
 ---
 
 ### 🧠 ToroStack — Graduation Project
