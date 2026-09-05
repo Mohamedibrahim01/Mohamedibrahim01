@@ -78,7 +78,7 @@ I built the application **end-to-end**, working across the frontend, backend, AP
 
 ---
 
-### 🧠 Touro — Graduation Project
+### 🧠 ToroStack — Graduation Project
 
 **Competitive Programming Platform**
 
