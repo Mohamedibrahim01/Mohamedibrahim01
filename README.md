@@ -92,7 +92,7 @@ I worked on the **React frontend**, developing the user interface and frontend f
 
 `React` · `JavaScript` · `CSS` · `SignalR`
 
-🔗 **[View Repository](https://github.com/Ma7EG/Torostack-Intelligent-System-for-Managing-Competitive-Programming-)**
+🔗 **[Live Demo](https://torostack.me/)**
 
 
 ---
